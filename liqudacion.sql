@@ -1,0 +1,1 @@
+SELECT * FROM comajupel_liquidaciones.empleado;
